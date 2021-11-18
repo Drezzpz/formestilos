@@ -1,0 +1,13 @@
+div {
+    background-color: rgb(147, 228, 253);
+    border-top: blue 2px solid;
+    border-bottom: blue 2px solid;
+}
+
+input,label {
+    padding: 5px;
+}
+
+*:focus {
+    background-color: hotpink;
+}
